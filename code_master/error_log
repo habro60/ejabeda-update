@@ -1,0 +1,40 @@
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Undefined variable $_SESSION in /home4/myhabroc/public_html/ejabeda/database.php on line 3
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/myhabroc/public_html/ejabeda/database.php on line 3
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Undefined variable $_SESSION in /home4/myhabroc/public_html/ejabeda/database.php on line 9
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/myhabroc/public_html/ejabeda/database.php on line 9
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Undefined variable $_SESSION in /home4/myhabroc/public_html/ejabeda/database.php on line 16
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/myhabroc/public_html/ejabeda/database.php on line 16
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Undefined variable $_SESSION in /home4/myhabroc/public_html/ejabeda/database.php on line 22
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/myhabroc/public_html/ejabeda/database.php on line 22
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Undefined variable $_SESSION in /home4/myhabroc/public_html/ejabeda/database.php on line 28
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/myhabroc/public_html/ejabeda/database.php on line 28
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Undefined variable $_SESSION in /home4/myhabroc/public_html/ejabeda/database.php on line 34
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/myhabroc/public_html/ejabeda/database.php on line 34
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Undefined variable $_SESSION in /home4/myhabroc/public_html/ejabeda/database.php on line 40
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/myhabroc/public_html/ejabeda/database.php on line 40
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Undefined variable $_SESSION in /home4/myhabroc/public_html/ejabeda/database.php on line 47
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/myhabroc/public_html/ejabeda/database.php on line 47
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Undefined variable $_SESSION in /home4/myhabroc/public_html/ejabeda/database.php on line 53
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/myhabroc/public_html/ejabeda/database.php on line 53
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Undefined variable $_SESSION in /home4/myhabroc/public_html/ejabeda/database.php on line 59
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/myhabroc/public_html/ejabeda/database.php on line 59
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Undefined variable $_SESSION in /home4/myhabroc/public_html/ejabeda/database.php on line 65
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/myhabroc/public_html/ejabeda/database.php on line 65
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Undefined variable $_SESSION in /home4/myhabroc/public_html/ejabeda/database.php on line 72
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/myhabroc/public_html/ejabeda/database.php on line 72
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Undefined variable $_SESSION in /home4/myhabroc/public_html/ejabeda/database.php on line 78
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/myhabroc/public_html/ejabeda/database.php on line 78
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Undefined variable $_SESSION in /home4/myhabroc/public_html/ejabeda/database.php on line 84
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/myhabroc/public_html/ejabeda/database.php on line 84
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Undefined variable $_SESSION in /home4/myhabroc/public_html/ejabeda/database.php on line 90
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/myhabroc/public_html/ejabeda/database.php on line 90
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Undefined variable $_SESSION in /home4/myhabroc/public_html/ejabeda/database.php on line 96
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/myhabroc/public_html/ejabeda/database.php on line 96
+[06-Aug-2022 01:51:25 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/code_master/delete.php on line 8
+[06-Aug-2022 01:51:25 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/code_master/delete.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/code_master/delete.php on line 8
+[06-Aug-2022 01:52:25 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/myhabroc/public_html/ejabeda/database.php:104) in /home4/myhabroc/public_html/ejabeda/code_master/add.php on line 34
+[06-Aug-2022 02:02:00 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/myhabroc/public_html/ejabeda/database.php:104) in /home4/myhabroc/public_html/ejabeda/code_master/add.php on line 34
+[06-Aug-2022 02:06:54 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/myhabroc/public_html/ejabeda/database.php:104) in /home4/myhabroc/public_html/ejabeda/code_master/add.php on line 34
