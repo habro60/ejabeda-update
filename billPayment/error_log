@@ -1,0 +1,5 @@
+[22-May-2023 11:57:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 7 in /home/habrlvnv/ejabeda.habrohosting.com/billPayment/onlinePayment.php:145
+Stack trace:
+#0 /home/habrlvnv/ejabeda.habrohosting.com/billPayment/onlinePayment.php(145): mysqli->query()
+#1 {main}
+  thrown in /home/habrlvnv/ejabeda.habrohosting.com/billPayment/onlinePayment.php on line 145

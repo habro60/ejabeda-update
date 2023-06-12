@@ -1,0 +1,785 @@
+[10-Jun-2022 23:52:04 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ejabeda_green_da'@'localhost' (using password: YES) in /home4/myhabroc/public_html/ejabeda/index.php on line 64
+[10-Jun-2022 23:52:04 America/Boise] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/myhabroc/public_html/ejabeda/index.php:65
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(65): mysqli->set_charset('utf8')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 65
+[10-Jun-2022 23:52:18 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ejabeda_green_da'@'localhost' (using password: YES) in /home4/myhabroc/public_html/ejabeda/index.php on line 64
+[10-Jun-2022 23:52:18 America/Boise] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/myhabroc/public_html/ejabeda/index.php:65
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(65): mysqli->set_charset('utf8')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 65
+[12-Jun-2022 22:12:41 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[12-Jun-2022 22:12:41 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php:106
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(106): mysqli_real_escape_string(NULL, 'admin321')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[14-Jun-2022 23:31:50 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[14-Jun-2022 23:31:50 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php:106
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(106): mysqli_real_escape_string(NULL, 'Admin')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[14-Jun-2022 23:32:09 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[14-Jun-2022 23:32:09 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php:106
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(106): mysqli_real_escape_string(NULL, 'Admin')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[15-Jun-2022 04:35:42 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[15-Jun-2022 04:35:42 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php:106
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(106): mysqli_real_escape_string(NULL, '<script>alert("...')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[15-Jun-2022 05:18:47 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[15-Jun-2022 05:18:47 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php:106
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(106): mysqli_real_escape_string(NULL, 'admin')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[15-Jun-2022 20:51:59 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ejabeda_green_da'@'localhost' (using password: YES) in /home4/myhabroc/public_html/ejabeda/index.php on line 40
+[15-Jun-2022 20:51:59 America/Boise] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/myhabroc/public_html/ejabeda/index.php:41
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(41): mysqli->set_charset('utf8')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 41
+[15-Jun-2022 23:10:18 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ejabeda_green_da'@'localhost' (using password: YES) in /home4/myhabroc/public_html/ejabeda/index.php on line 40
+[15-Jun-2022 23:10:18 America/Boise] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/myhabroc/public_html/ejabeda/index.php:41
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(41): mysqli->set_charset('utf8')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 41
+[15-Jun-2022 23:14:42 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ejabeda_green_da'@'localhost' (using password: YES) in /home4/myhabroc/public_html/ejabeda/index.php on line 40
+[15-Jun-2022 23:14:42 America/Boise] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/myhabroc/public_html/ejabeda/index.php:41
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(41): mysqli->set_charset('utf8')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 41
+[15-Jun-2022 23:19:48 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ejabeda_green_da'@'localhost' (using password: YES) in /home4/myhabroc/public_html/ejabeda/index.php on line 40
+[15-Jun-2022 23:19:48 America/Boise] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/myhabroc/public_html/ejabeda/index.php:41
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(41): mysqli->set_charset('utf8')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 41
+[19-Jun-2022 00:31:19 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[19-Jun-2022 00:31:19 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php:106
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(106): mysqli_real_escape_string(NULL, 'manager-reza')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[19-Jun-2022 22:01:47 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[19-Jun-2022 22:01:47 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php:106
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(106): mysqli_real_escape_string(NULL, 'accountRipon')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[19-Jun-2022 22:02:04 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[19-Jun-2022 22:02:04 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php:106
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(106): mysqli_real_escape_string(NULL, 'accountRipon')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[20-Jun-2022 22:50:19 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[20-Jun-2022 22:50:19 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php:106
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(106): mysqli_real_escape_string(NULL, 'Admin')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[21-Jun-2022 08:45:41 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[21-Jun-2022 08:45:41 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php:106
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(106): mysqli_real_escape_string(NULL, 'Admin')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[22-Jun-2022 03:41:40 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[22-Jun-2022 03:41:40 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php:106
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(106): mysqli_real_escape_string(NULL, 'admin')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[22-Jun-2022 03:41:44 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[22-Jun-2022 03:41:44 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php:106
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(106): mysqli_real_escape_string(NULL, 'admin')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[24-Jun-2022 18:45:02 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[24-Jun-2022 18:45:02 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php:106
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(106): mysqli_real_escape_string(NULL, 'Admin')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[25-Jun-2022 06:12:42 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[25-Jun-2022 06:12:42 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php:106
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(106): mysqli_real_escape_string(NULL, 'Admin')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[25-Jun-2022 06:13:18 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[25-Jun-2022 06:13:18 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php:106
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(106): mysqli_real_escape_string(NULL, 'Admin')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[25-Jun-2022 22:27:11 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[25-Jun-2022 22:27:11 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php:106
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(106): mysqli_real_escape_string(NULL, 'Admin')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 106
+[14-Jul-2022 04:37:25 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[14-Jul-2022 04:37:25 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php:115
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(115): mysqli_real_escape_string(NULL, '<script>alert("...')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[14-Jul-2022 05:08:10 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[14-Jul-2022 05:08:10 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php:115
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(115): mysqli_real_escape_string(NULL, 'manager-reza')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[16-Jul-2022 04:32:25 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[16-Jul-2022 04:32:25 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php:115
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(115): mysqli_real_escape_string(NULL, 'admin')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[20-Jul-2022 00:54:35 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[20-Jul-2022 00:54:35 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php:115
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(115): mysqli_real_escape_string(NULL, 'Admin')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[21-Jul-2022 10:15:17 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[21-Jul-2022 10:15:17 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php:115
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(115): mysqli_real_escape_string(NULL, 'admin321')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[23-Jul-2022 02:33:40 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[23-Jul-2022 02:33:40 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php:115
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(115): mysqli_real_escape_string(NULL, 'admin321')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[24-Jul-2022 01:31:20 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[24-Jul-2022 01:31:20 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php:115
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(115): mysqli_real_escape_string(NULL, 'admin321')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[26-Jul-2022 06:09:09 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[26-Jul-2022 06:09:09 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php:115
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(115): mysqli_real_escape_string(NULL, 'Admin')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[29-Jul-2022 07:11:16 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[29-Jul-2022 07:11:16 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php:115
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(115): mysqli_real_escape_string(NULL, 'admin321')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[01-Aug-2022 08:59:54 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[01-Aug-2022 08:59:54 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php:115
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(115): mysqli_real_escape_string(NULL, 'admin')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[01-Aug-2022 09:00:00 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[01-Aug-2022 09:00:00 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php:115
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(115): mysqli_real_escape_string(NULL, 'admin')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[06-Aug-2022 08:00:46 America/Boise] PHP Warning:  Undefined variable $conn in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[06-Aug-2022 08:00:46 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php:115
+Stack trace:
+#0 /home4/myhabroc/public_html/ejabeda/index.php(115): mysqli_real_escape_string(NULL, 'admin321')
+#1 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[12-Aug-2022 04:36:03 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[12-Aug-2022 04:36:03 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[12-Aug-2022 04:36:03 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[12-Aug-2022 04:36:03 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[16-Aug-2022 07:11:07 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[16-Aug-2022 07:11:07 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[16-Aug-2022 07:11:07 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[16-Aug-2022 07:11:07 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[18-Aug-2022 05:44:19 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[18-Aug-2022 05:44:19 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[18-Aug-2022 05:44:19 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[18-Aug-2022 05:44:19 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[18-Aug-2022 05:44:26 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[18-Aug-2022 05:44:26 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[18-Aug-2022 05:44:26 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[18-Aug-2022 05:44:26 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[21-Aug-2022 23:37:45 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[21-Aug-2022 23:37:45 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[21-Aug-2022 23:37:45 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[21-Aug-2022 23:37:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[21-Aug-2022 23:38:56 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[21-Aug-2022 23:38:56 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[21-Aug-2022 23:38:56 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[21-Aug-2022 23:38:56 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[23-Aug-2022 05:20:40 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[23-Aug-2022 05:20:40 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[23-Aug-2022 05:20:40 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[23-Aug-2022 05:20:40 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[27-Aug-2022 01:48:02 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[27-Aug-2022 01:48:02 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[27-Aug-2022 01:48:02 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[27-Aug-2022 01:48:02 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[29-Aug-2022 09:20:33 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[29-Aug-2022 09:20:33 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[29-Aug-2022 09:20:33 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[29-Aug-2022 09:20:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[29-Aug-2022 09:20:40 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[29-Aug-2022 09:20:40 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[29-Aug-2022 09:20:40 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[29-Aug-2022 09:20:40 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[29-Aug-2022 09:20:44 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[29-Aug-2022 09:20:44 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[29-Aug-2022 09:20:44 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[29-Aug-2022 09:20:44 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[29-Aug-2022 09:20:54 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[29-Aug-2022 09:20:54 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[29-Aug-2022 09:20:54 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[29-Aug-2022 09:20:54 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[29-Aug-2022 09:26:20 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[29-Aug-2022 09:26:20 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[29-Aug-2022 09:26:20 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[29-Aug-2022 09:26:20 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[29-Aug-2022 09:26:36 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[29-Aug-2022 09:26:36 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[29-Aug-2022 09:26:36 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[29-Aug-2022 09:26:36 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[30-Aug-2022 07:32:20 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[30-Aug-2022 07:32:20 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[30-Aug-2022 07:32:20 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[30-Aug-2022 07:32:20 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[30-Aug-2022 09:48:40 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[30-Aug-2022 09:48:40 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[30-Aug-2022 09:48:40 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[30-Aug-2022 09:48:40 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[31-Aug-2022 07:39:21 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[31-Aug-2022 07:39:21 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[31-Aug-2022 07:39:21 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[31-Aug-2022 07:39:21 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[02-Sep-2022 07:21:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[02-Sep-2022 07:21:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[02-Sep-2022 07:21:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[02-Sep-2022 07:21:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[03-Sep-2022 02:47:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[03-Sep-2022 02:47:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[03-Sep-2022 02:47:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[03-Sep-2022 02:47:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[03-Sep-2022 02:48:05 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[03-Sep-2022 02:48:05 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[03-Sep-2022 02:48:05 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[03-Sep-2022 02:48:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[05-Sep-2022 09:28:06 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[05-Sep-2022 09:28:06 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[05-Sep-2022 09:28:06 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[05-Sep-2022 09:28:06 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[05-Sep-2022 09:28:12 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[05-Sep-2022 09:28:12 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[05-Sep-2022 09:28:12 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[05-Sep-2022 09:28:12 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:32 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:32 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:32 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:57 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[08-Sep-2022 00:08:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[08-Sep-2022 00:08:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[08-Sep-2022 00:08:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[08-Sep-2022 00:08:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[10-Sep-2022 04:34:23 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[10-Sep-2022 04:34:23 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[10-Sep-2022 04:34:23 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[10-Sep-2022 04:34:23 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[10-Sep-2022 07:28:44 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[10-Sep-2022 07:28:44 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[10-Sep-2022 07:28:44 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[10-Sep-2022 07:28:44 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[10-Sep-2022 20:48:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[10-Sep-2022 20:48:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[10-Sep-2022 20:48:59 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[10-Sep-2022 20:48:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[10-Sep-2022 20:49:29 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[10-Sep-2022 20:49:29 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[10-Sep-2022 20:49:29 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[10-Sep-2022 20:49:29 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[11-Sep-2022 07:00:12 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[11-Sep-2022 07:00:12 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[11-Sep-2022 07:00:12 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[11-Sep-2022 07:00:12 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[19-Sep-2022 00:34:17 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[19-Sep-2022 00:34:17 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[19-Sep-2022 00:34:17 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[19-Sep-2022 00:34:17 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[19-Sep-2022 00:34:35 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 115
+[19-Sep-2022 00:34:35 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 116
+[19-Sep-2022 00:34:35 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/myhabroc/public_html/ejabeda/index.php on line 117
+[19-Sep-2022 00:34:35 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/myhabroc/public_html/ejabeda/index.php:120
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/index.php on line 120
+[27-Apr-2023 05:08:59 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2005] Unknown MySQL server host 'localhost:3306' (-2) in /home/habrlvnv/ejabeda.habrohosting.com/set_db/set_database.php:10
+Stack trace:
+#0 /home/habrlvnv/ejabeda.habrohosting.com/set_db/set_database.php(10): PDO->__construct()
+#1 /home/habrlvnv/ejabeda.habrohosting.com/index.php(13): require('/home/habrlvnv/...')
+#2 {main}
+  thrown in /home/habrlvnv/ejabeda.habrohosting.com/set_db/set_database.php on line 10
+[02-May-2023 03:19:43 America/New_York] PHP Warning:  Undefined array key "org_no" in /home/habrlvnv/ejabeda.habrohosting.com/set_db/set_database.php on line 92
+[02-May-2023 03:19:43 America/New_York] PHP Warning:  Undefined variable $conn in /home/habrlvnv/ejabeda.habrohosting.com/index.php on line 21
+[02-May-2023 03:19:43 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/habrlvnv/ejabeda.habrohosting.com/index.php:21
+Stack trace:
+#0 /home/habrlvnv/ejabeda.habrohosting.com/index.php(21): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/habrlvnv/ejabeda.habrohosting.com/index.php on line 21
+[02-May-2023 03:21:05 America/New_York] PHP Warning:  Undefined array key "org_no" in /home/habrlvnv/ejabeda.habrohosting.com/set_db/set_database.php on line 92
+[02-May-2023 03:21:05 America/New_York] PHP Warning:  Undefined variable $conn in /home/habrlvnv/ejabeda.habrohosting.com/index.php on line 21
+[02-May-2023 03:21:05 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/habrlvnv/ejabeda.habrohosting.com/index.php:21
+Stack trace:
+#0 /home/habrlvnv/ejabeda.habrohosting.com/index.php(21): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/habrlvnv/ejabeda.habrohosting.com/index.php on line 21
+[02-May-2023 04:48:15 America/New_York] PHP Warning:  Undefined array key "org_no" in /home/habrlvnv/ejabeda.habrohosting.com/set_db/set_database.php on line 92
+[02-May-2023 04:48:15 America/New_York] PHP Warning:  Undefined variable $conn in /home/habrlvnv/ejabeda.habrohosting.com/index.php on line 21
+[02-May-2023 04:48:15 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/habrlvnv/ejabeda.habrohosting.com/index.php:21
+Stack trace:
+#0 /home/habrlvnv/ejabeda.habrohosting.com/index.php(21): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/habrlvnv/ejabeda.habrohosting.com/index.php on line 21
+[02-May-2023 04:51:32 America/New_York] PHP Warning:  Undefined array key "org_no" in /home/habrlvnv/ejabeda.habrohosting.com/set_db/set_database.php on line 92
+[02-May-2023 04:51:32 America/New_York] PHP Warning:  Undefined variable $conn in /home/habrlvnv/ejabeda.habrohosting.com/index.php on line 22
+[02-May-2023 04:51:32 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/habrlvnv/ejabeda.habrohosting.com/index.php:22
+Stack trace:
+#0 /home/habrlvnv/ejabeda.habrohosting.com/index.php(22): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/habrlvnv/ejabeda.habrohosting.com/index.php on line 22
+[02-May-2023 04:52:03 America/New_York] PHP Warning:  Undefined array key "org_no" in /home/habrlvnv/ejabeda.habrohosting.com/set_db/set_database.php on line 92
+[02-May-2023 04:52:03 America/New_York] PHP Warning:  Undefined variable $conn in /home/habrlvnv/ejabeda.habrohosting.com/index.php on line 22
+[02-May-2023 04:52:03 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/habrlvnv/ejabeda.habrohosting.com/index.php:22
+Stack trace:
+#0 /home/habrlvnv/ejabeda.habrohosting.com/index.php(22): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/habrlvnv/ejabeda.habrohosting.com/index.php on line 22
+[02-May-2023 04:53:12 America/New_York] PHP Warning:  Undefined array key "org_no" in /home/habrlvnv/ejabeda.habrohosting.com/set_db/set_database.php on line 92
+[02-May-2023 04:53:12 America/New_York] PHP Warning:  Undefined variable $conn in /home/habrlvnv/ejabeda.habrohosting.com/index.php on line 21
+[02-May-2023 04:53:12 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/habrlvnv/ejabeda.habrohosting.com/index.php:21
+Stack trace:
+#0 /home/habrlvnv/ejabeda.habrohosting.com/index.php(21): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/habrlvnv/ejabeda.habrohosting.com/index.php on line 21
+[02-May-2023 04:53:36 America/New_York] PHP Warning:  Undefined array key "org_no" in /home/habrlvnv/ejabeda.habrohosting.com/set_db/set_database.php on line 92
+[02-May-2023 04:53:36 America/New_York] PHP Warning:  Undefined variable $conn in /home/habrlvnv/ejabeda.habrohosting.com/index.php on line 21
+[02-May-2023 04:53:36 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/habrlvnv/ejabeda.habrohosting.com/index.php:21
+Stack trace:
+#0 /home/habrlvnv/ejabeda.habrohosting.com/index.php(21): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/habrlvnv/ejabeda.habrohosting.com/index.php on line 21
+[06-May-2023 11:48:14 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'myejabeda_green_da'@'localhost' (using password: YES) in /home/habrlvnv/ejabeda.habrohosting.com/set_db/set_database.php:23
+Stack trace:
+#0 /home/habrlvnv/ejabeda.habrohosting.com/set_db/set_database.php(23): mysqli->__construct()
+#1 /home/habrlvnv/ejabeda.habrohosting.com/index.php(13): require('/home/habrlvnv/...')
+#2 {main}
+  thrown in /home/habrlvnv/ejabeda.habrohosting.com/set_db/set_database.php on line 23
+[20-May-2023 06:01:37 America/New_York] PHP Warning:  Undefined variable $conn in /home/habrlvnv/ejabeda.habrohosting.com/index.php on line 21
+[20-May-2023 06:01:37 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/habrlvnv/ejabeda.habrohosting.com/index.php:21
+Stack trace:
+#0 /home/habrlvnv/ejabeda.habrohosting.com/index.php(21): mysqli_real_escape_string()
+#1 {main}
+  thrown in /home/habrlvnv/ejabeda.habrohosting.com/index.php on line 21
+[23-May-2023 06:31:41 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'myejabeda_root'@'localhost' (using password: YES) in /home/habrlvnv/ejabeda.habrohosting.com/set_db/set_database.php:88
+Stack trace:
+#0 /home/habrlvnv/ejabeda.habrohosting.com/set_db/set_database.php(88): mysqli->__construct()
+#1 /home/habrlvnv/ejabeda.habrohosting.com/index.php(13): require('/home/habrlvnv/...')
+#2 {main}
+  thrown in /home/habrlvnv/ejabeda.habrohosting.com/set_db/set_database.php on line 88
+[23-May-2023 06:32:21 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'myejabeda_root'@'localhost' (using password: YES) in /home/habrlvnv/ejabeda.habrohosting.com/set_db/set_database.php:88
+Stack trace:
+#0 /home/habrlvnv/ejabeda.habrohosting.com/set_db/set_database.php(88): mysqli->__construct()
+#1 /home/habrlvnv/ejabeda.habrohosting.com/index.php(13): require('/home/habrlvnv/...')
+#2 {main}
+  thrown in /home/habrlvnv/ejabeda.habrohosting.com/set_db/set_database.php on line 88
+[26-May-2023 03:19:33 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'myejabeda_root'@'localhost' (using password: YES) in /home/habrlvnv/ejabeda.habrohosting.com/set_db/set_database.php:88
+Stack trace:
+#0 /home/habrlvnv/ejabeda.habrohosting.com/set_db/set_database.php(88): mysqli->__construct()
+#1 /home/habrlvnv/ejabeda.habrohosting.com/index.php(13): require('/home/habrlvnv/...')
+#2 {main}
+  thrown in /home/habrlvnv/ejabeda.habrohosting.com/set_db/set_database.php on line 88
+[26-May-2023 03:20:01 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'myejabeda_root'@'localhost' (using password: YES) in /home/habrlvnv/ejabeda.habrohosting.com/set_db/set_database.php:88
+Stack trace:
+#0 /home/habrlvnv/ejabeda.habrohosting.com/set_db/set_database.php(88): mysqli->__construct()
+#1 /home/habrlvnv/ejabeda.habrohosting.com/index.php(13): require('/home/habrlvnv/...')
+#2 {main}
+  thrown in /home/habrlvnv/ejabeda.habrohosting.com/set_db/set_database.php on line 88
