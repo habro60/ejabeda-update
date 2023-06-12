@@ -1,4 +1,10 @@
 {
+    "name": "ejabeda/ejabeda",
+    "type": "project",
+    "description": "Accounting Software",
+    "keywords": ["php"],
+    "license": "MIT",
+
     "require": {
         "mpdf/mpdf": "^8.0"
     }
