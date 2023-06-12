@@ -1,0 +1,15 @@
+[10-May-2023 11:58:21 UTC] PHP Warning:  require(report_footer.php): Failed to open stream: No such file or directory in /home/habrlvnv/ejabeda.habrohosting.com/delivery_report/delivery_details.php on line 201
+[10-May-2023 11:58:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'report_footer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/habrlvnv/ejabeda.habrohosting.com/delivery_report/delivery_details.php:201
+Stack trace:
+#0 {main}
+  thrown in /home/habrlvnv/ejabeda.habrohosting.com/delivery_report/delivery_details.php on line 201
+[10-May-2023 12:00:11 UTC] PHP Warning:  require(report_footer.php): Failed to open stream: No such file or directory in /home/habrlvnv/ejabeda.habrohosting.com/delivery_report/delivery_details.php on line 201
+[10-May-2023 12:00:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'report_footer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/habrlvnv/ejabeda.habrohosting.com/delivery_report/delivery_details.php:201
+Stack trace:
+#0 {main}
+  thrown in /home/habrlvnv/ejabeda.habrohosting.com/delivery_report/delivery_details.php on line 201
+[10-May-2023 12:01:41 UTC] PHP Warning:  require(report_footer.php): Failed to open stream: No such file or directory in /home/habrlvnv/ejabeda.habrohosting.com/delivery_report/delivery_details.php on line 201
+[10-May-2023 12:01:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'report_footer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/habrlvnv/ejabeda.habrohosting.com/delivery_report/delivery_details.php:201
+Stack trace:
+#0 {main}
+  thrown in /home/habrlvnv/ejabeda.habrohosting.com/delivery_report/delivery_details.php on line 201

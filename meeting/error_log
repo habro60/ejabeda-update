@@ -1,0 +1,14 @@
+[12-Sep-2022 10:02:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home4/myhabroc/public_html/ejabeda/meeting/committee_info.php:230
+Stack trace:
+#0 {main}
+  thrown in /home4/myhabroc/public_html/ejabeda/meeting/committee_info.php on line 230
+[23-May-2023 12:53:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'habrlvnv_shapla_apt.committee_info' doesn't exist in /home/habrlvnv/ejabeda.habrohosting.com/meeting/committee_info.php:229
+Stack trace:
+#0 /home/habrlvnv/ejabeda.habrohosting.com/meeting/committee_info.php(229): mysqli->query()
+#1 {main}
+  thrown in /home/habrlvnv/ejabeda.habrohosting.com/meeting/committee_info.php on line 229
+[23-May-2023 12:53:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'habrlvnv_shapla_apt.committee_info' doesn't exist in /home/habrlvnv/ejabeda.habrohosting.com/meeting/committee_info.php:229
+Stack trace:
+#0 /home/habrlvnv/ejabeda.habrohosting.com/meeting/committee_info.php(229): mysqli->query()
+#1 {main}
+  thrown in /home/habrlvnv/ejabeda.habrohosting.com/meeting/committee_info.php on line 229

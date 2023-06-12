@@ -1,0 +1,10 @@
+[08-Aug-2022 14:59:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/myhabroc/public_html/ejabeda/dashboard/admin_dashboard.php on line 111
+[08-Aug-2022 14:59:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/myhabroc/public_html/ejabeda/dashboard/admin_dashboard.php on line 119
+[08-Aug-2022 14:59:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/myhabroc/public_html/ejabeda/dashboard/admin_dashboard.php on line 147
+[08-Aug-2022 14:59:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/myhabroc/public_html/ejabeda/dashboard/admin_dashboard.php on line 147
+[08-Aug-2022 14:59:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/myhabroc/public_html/ejabeda/dashboard/admin_dashboard.php on line 209
+[08-Aug-2022 14:59:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home4/myhabroc/public_html/ejabeda/dashboard/admin_dashboard.php on line 216
+[23-May-2023 10:31:29 UTC] PHP Warning:  Undefined variable $income in /home/habrlvnv/ejabeda.habrohosting.com/dashboard/owner_dashboard.php on line 152
+[23-May-2023 10:31:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/habrlvnv/ejabeda.habrohosting.com/dashboard/owner_dashboard.php on line 152
+[23-May-2023 10:31:29 UTC] PHP Warning:  Undefined variable $expense in /home/habrlvnv/ejabeda.habrohosting.com/dashboard/owner_dashboard.php on line 159
+[23-May-2023 10:31:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/habrlvnv/ejabeda.habrohosting.com/dashboard/owner_dashboard.php on line 159
