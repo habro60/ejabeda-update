@@ -95,8 +95,8 @@
     $connect = new PDO('mysql:host=localhost; dbname=habrlvnv_shapla_apt;', 'habrlvnv_ejabeda_username', '?e6R=#gz)Jm}');
     $connect->exec("set names utf8");
   }elseif ($_POST['org_no'] == '1500') {
-     $conn = new mysqli("localhost","habrlvnv_ejabeda_username","?e6R=#gz)Jm}","habrlvnv_lavender");
+     $conn = new mysqli("localhost","root","","ejabeda_lavender");
     $conn->set_charset("utf8");
-    $connect = new PDO('mysql:host=localhost; dbname=habrlvnv_lavender;', 'habrlvnv_ejabeda_username', '?e6R=#gz)Jm}');
+    $connect = new PDO('mysql:host=localhost; dbname=ejabeda_lavender;', 'root', '');
     $connect->exec("set names utf8");
   }

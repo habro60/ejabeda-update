@@ -3,7 +3,7 @@
         'name' => 'ejabeda/ejabeda',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '09244a5373247e5903c129924c3bd9ce4a6e170b',
+        'reference' => '1dd2ec196cfb142d2b1942d4000d143a04b258dc',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'ejabeda/ejabeda' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '09244a5373247e5903c129924c3bd9ce4a6e170b',
+            'reference' => '1dd2ec196cfb142d2b1942d4000d143a04b258dc',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
